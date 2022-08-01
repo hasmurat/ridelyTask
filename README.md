@@ -9,7 +9,7 @@
     Mocha Framework
 
     Clone the repository:
-        git clone ....
+        git clone https://github.com/hasmurat/ridelyTask.git
 
     Install dependencies:
         npm install
